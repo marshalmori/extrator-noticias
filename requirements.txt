@@ -4,3 +4,4 @@ pandas
 openai
 tqdm
 python-dotenv
+matplotlib
